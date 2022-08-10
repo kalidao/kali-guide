@@ -1,7 +1,7 @@
 const { description } = require("../../package");
 
 module.exports = {
-  title: "Huff Language",
+  title: "Kali Guide",
   description: description,
   //homepage: "http://docs.huff.sh/",
 
@@ -21,15 +21,13 @@ module.exports = {
   theme: "default-prefers-color-scheme",
   themeConfig: {
     overrideTheme: "dark",
-    ostname: 'https://docs.huff.sh',
-    docsRepo: 'https://github.com/huff-language/huff-docs',
+    ostname: 'https://guide.kali.gg/',
+    docsRepo: 'https://github.com/kalidao/kali-guide',
     docsBranch: 'main',
     docsDir: "src",
     nav: [
       { text: "Home", link: "/" },
       { text: "Get Started", link: "/get-started/overview/" },
-      { text: "Tutorials", link: "/tutorial/overview/" },
-      { text: "Style Guide", link: "/style-guide/overview/" },
       { text: "Resources", link: "/resources/overview/" },
       { text: "Contribute", link: "/contribute/overview/" },
     ],
@@ -45,29 +43,6 @@ module.exports = {
             "/get-started/compiling/",
             "/get-started/project-quickstart/",
             "/get-started/huff-by-example/",
-          ],
-        },
-      ],
-      "/tutorial/": [
-        {
-          title: "Tutorials",
-          collapsable: false,
-          children: [
-            "/tutorial/overview/",
-            "/tutorial/evm-basics/",
-            "/tutorial/the-basics/",
-            "/tutorial/hello-world/",
-            "/tutorial/simple-storage/",
-            "/tutorial/huff-testing/",
-          ],
-        },
-      ],
-      "/style-guide/": [
-        {
-          title: "Style Guide",
-          collapsable: false,
-          children: [
-            "/style-guide/overview/",
           ],
         },
       ],

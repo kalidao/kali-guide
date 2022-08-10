@@ -2,8 +2,8 @@
 home: true
 icon: home
 title: Home
-heroImage: /huff_transparent.png
-heroText: The Huff Docs.
+# heroImage: /huff_transparent.png
+heroText: The Kali Guide.
 
 ---
 
@@ -12,21 +12,6 @@ heroText: The Huff Docs.
   <a class="feature" href="/get-started/overview">
     <h2>Getting Started</h2>
     <p>An introduction to Huff.</p>
-  </a>
-
-  <a class="feature" href="/tutorial/evm-basics/">
-    <h2>EVM Tutorial</h2>
-    <p>Understand how the EVM works at a very low level.</p>
-  </a>
-
-  <a class="feature" href="/tutorial/project-template/">
-    <h2>Huff Project Template</h2>
-    <p>Learn the ins-and-outs of the official Huff Project Template.</p>
-  </a>
-
-  <a class="feature" href="/get-started/huff-by-example/">
-    <h2>Huff By Example</h2>
-    <p>Dive into the main parts of Huff accompanied by extensive examples.</p>
   </a>
 
   <a class="feature" href="/resources/overview/">
@@ -44,7 +29,7 @@ heroText: The Huff Docs.
 <div class="footer">
   <ul class="links">
     <li>
-      <a id="icon" href="https://github.com/huff-language/">
+      <a id="icon" href="https://github.com/kalidao/">
         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-github"
           viewBox="0 0 16 16">
           <path
@@ -53,7 +38,7 @@ heroText: The Huff Docs.
       </a>
     </li>
     <li>
-      <a id="icon" href="https://twitter.com/huff_language/">
+      <a id="icon" href="https://twitter.com/_kalidao">
         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter"
           viewBox="0 0 16 16">
           <path
@@ -62,7 +47,7 @@ heroText: The Huff Docs.
       </a>
     </li>
     <li>
-      <a id="icon" href="https://discord.huff.sh/">
+      <a id="icon" href="discord.gg/UKCS9ghzUE">
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-discord"
           viewBox="0 0 16 16">
           <path
