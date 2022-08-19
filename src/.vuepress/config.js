@@ -21,8 +21,8 @@ module.exports = {
   theme: "default-prefers-color-scheme",
   themeConfig: {
     overrideTheme: "dark",
-    ostname: 'https://guide.kali.gg/',
-    docsRepo: 'https://github.com/kalidao/kali-guide',
+    ostname: 'https://docs.wrappr.wtf/',
+    docsRepo: 'https://github.com/kalidao/wrappr-docs',
     docsBranch: 'main',
     docsDir: "src",
     nav: [
@@ -38,11 +38,7 @@ module.exports = {
           title: "Get Started",
           collapsable: false,
           children: [
-            "/get-started/overview/",
-            "/get-started/installing/",
-            "/get-started/compiling/",
-            "/get-started/project-quickstart/",
-            "/get-started/huff-by-example/",
+            "/get-started/overview/"
           ],
         },
       ],
@@ -52,7 +48,6 @@ module.exports = {
           collapsable: false,
           children: [
             "/resources/overview/",
-            "/resources/cli/"
           ]
         },
       ],
