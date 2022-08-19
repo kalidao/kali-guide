@@ -29,7 +29,7 @@ heroText: The Kali Guide.
 <div class="footer">
   <ul class="links">
     <li>
-      <a id="icon" href="https://github.com/kalidao/">
+      <a id="icon" href="https://github.com/kalidao/" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-github"
           viewBox="0 0 16 16">
           <path
@@ -38,7 +38,7 @@ heroText: The Kali Guide.
       </a>
     </li>
     <li>
-      <a id="icon" href="https://twitter.com/_kalidao">
+      <a id="icon" href="https://twitter.com/_kalidao" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter"
           viewBox="0 0 16 16">
           <path
@@ -47,7 +47,7 @@ heroText: The Kali Guide.
       </a>
     </li>
     <li>
-      <a id="icon" href="discord.gg/UKCS9ghzUE">
+      <a id="icon" href="https://discord.gg/UKCS9ghzUE" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-discord"
           viewBox="0 0 16 16">
           <path
