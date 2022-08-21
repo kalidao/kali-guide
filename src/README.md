@@ -2,8 +2,8 @@
 home: true
 icon: home
 title: Home
-# heroImage: /huff_transparent.png
-heroText: The Kali Guide.
+heroImage: /wrappr-logo.png
+heroText: The Wrappr Guide.
 
 ---
 
@@ -11,17 +11,17 @@ heroText: The Kali Guide.
 
   <a class="feature" href="/get-started/overview">
     <h2>Getting Started</h2>
-    <p>An introduction to Huff.</p>
+    <p>An introduction to Wrappr.</p>
   </a>
 
   <a class="feature" href="/resources/overview/">
     <h2>Resources</h2>
-    <p>Documentation, Third-party tools, Examples, and other useful resources.</p>
+    <p>Documentation, Examples, and other useful resources.</p>
   </a>
 
   <a class="feature" href="/contribute/overview/">
     <h2>Contribute</h2>
-    <p>Discover how to contribute to the Huff Community and join the conversation!</p>
+    <p>Discover how to contribute to the Wrappr Community and join the conversation!</p>
   </a>
 
 </div>

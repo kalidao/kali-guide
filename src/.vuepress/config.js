@@ -1,12 +1,12 @@
 const { description } = require("../../package");
 
 module.exports = {
-  title: "Kali Guide",
+  title: "Wrappr",
   description: description,
-  //homepage: "http://docs.huff.sh/",
+  homepage: "http://docs.wrappr.wtf/",
 
   head: [
-    ["meta", { name: "theme-color", content: "#c70202" }],
+    ["meta", { name: "theme-color", content: "#30FDFD" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",
