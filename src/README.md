@@ -16,12 +16,12 @@ heroText: The Wrappr Guide.
 
   <a class="feature" href="/resources/overview/">
     <h2>Create</h2>
-    <p>Learn more about how to make your own Wrappr</p>
+    <p>Make your own Wrapprs</p>
   </a>
 
   <a class="feature" href="/contribute/overview/">
-    <h2>Explore/h2>
-    <p>Mint and attach Wrappr NFTs to your accounts</p>
+    <h2>Explore</h2>
+    <p>Check out and mint Wrapprs</p>
   </a>
 
 </div>
