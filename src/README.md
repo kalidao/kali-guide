@@ -10,8 +10,8 @@ heroText: The Wrappr Guide.
 <div class="features">
 
   <a class="feature" href="/get-started/overview">
-    <h2>WTF is Wrappr?</h2>
-    <p>Get started with Legal NFTs</p>
+    <h2>Get Started</h2>
+    <p>Launch into the world of Legal NFTs</p>
   </a>
 
   <a class="feature" href="/resources/overview/">
