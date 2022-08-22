@@ -1,7 +1,7 @@
 {
   "name": "kali-guide",
   "version": "0.2.0",
-  "description": "Your companion for navigating the treacherous legal waters",
+  "description": "Your trusty tool for crypto legal protection",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
