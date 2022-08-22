@@ -1,6 +1,6 @@
 # WTF is Wrappr?
 
-[Wrappr](https://dev.wrappr.wtf/) is a Legal NFT creation tool and gallery, starting with some pre-made ‘legal wrappers’ for wallets and DAOs. It allows lawyers and creative drafters to plug agreements into permission(able) NFTs and get paid for their awesome open source work.
+[Wrappr](https://app.wrappr.wtf/) is a Legal NFT creation tool and gallery, starting with some pre-made ‘legal wrappers’ for wallets and DAOs. It allows lawyers and creative drafters to plug agreements into permission(able) NFTs and get paid for their awesome open source work.
 
 # Ok, WTF is a Legal NFT?
 
