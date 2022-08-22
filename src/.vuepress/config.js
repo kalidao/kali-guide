@@ -27,36 +27,36 @@ module.exports = {
     docsDir: "src",
     nav: [
       { text: "Home", link: "/" },
-      { text: "Start", link: "/start" },
-      { text: "Create", link: "/create" },
-      { text: "Explore", link: "/explore" },
+      { text: "Start", link: "/start/" },
+      { text: "Create", link: "/create/" },
+      { text: "Explore", link: "/explore/" },
     ],
     sidebarDepth: 10,
     sidebar: {
-      "/get-started/": [
+      "/start/": [
         {
           title: "Start",
           collapsable: false,
           children: [
-            "/start"
+            "/start/"
           ],
         },
       ],
-      "/resources/": [
+      "/create/": [
         {
           title: "Create",
           collapsable: false,
           children: [
-            "/create",
+            "/create/",
           ]
         },
       ],
-      "/contribute/": [
+      "/explore/": [
         {
           title: "Explore",
           collapsable: false,
           children: [
-            "/explore",
+            "/explore/",
           ],
         },
       ],
