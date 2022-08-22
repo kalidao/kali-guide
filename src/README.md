@@ -10,18 +10,18 @@ heroText: The Wrappr Guide.
 <div class="features">
 
   <a class="feature" href="/get-started/overview">
-    <h2>Getting Started</h2>
-    <p>An introduction to Wrappr.</p>
+    <h2>WTF is Wrappr?</h2>
+    <p>Get started with Legal NFTs</p>
   </a>
 
   <a class="feature" href="/resources/overview/">
-    <h2>Resources</h2>
-    <p>Documentation, Examples, and other useful resources.</p>
+    <h2>Create</h2>
+    <p>Learn more about how to make your own Wrappr</p>
   </a>
 
   <a class="feature" href="/contribute/overview/">
-    <h2>Contribute</h2>
-    <p>Discover how to contribute to the Wrappr Community and join the conversation!</p>
+    <h2>Explore/h2>
+    <p>Mint and attach Wrappr NFTs to your accounts</p>
   </a>
 
 </div>
