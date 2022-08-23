@@ -20,7 +20,7 @@ The [Wrappr contract](https://github.com/kalidao/wrappr/blob/main/contracts/Wrap
 
 *Anyone can attach an LLC to their wallet, multi-sig or DAO to make agreements and protect their personal assets from their web3 activities.*
 
-The limited liability company (LLC) was a game changer for entity formation. Established in Wyoming in 1977, it offers a hybrid of partnerships and corporations that gives flexibility for members to decide on their taxation status and determine their rights largely through private operating agreements. They are typically anonymous, with only a registered agent and organizer being known to the State and general public.
+The limited liability company ([LLC](https://mirror.xyz/kalico.eth/vqfVO70rkW3_D7MQA7oKlcf5yErlHt2mRUsY62hNkT0)) was a game changer for entity formation. Established in Wyoming in 1977, it offers a hybrid of partnerships and corporations that gives flexibility for members to decide on their taxation status and determine their rights largely through private operating agreements. They are typically anonymous, with only a registered agent and organizer being known to the State and general public.
 
 Delaware extended this internet-friendly concept with the creation of the [Series LLC](https://mirror.xyz/kalico.eth/PjwUyaJsHZIvJ3RfSMghcw_FS1ohrrQuXmD9XI5GJtk) concept, which is a formation format that allows a single filing to franchise out separate LLCs under a "master" operating agreement.
 
