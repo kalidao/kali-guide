@@ -28,9 +28,9 @@ Delaware and Wyoming have been selected initially for their robust corporate law
 
 The limited liability company ([LLC](https://mirror.xyz/kalico.eth/vqfVO70rkW3_D7MQA7oKlcf5yErlHt2mRUsY62hNkT0)) was a game changer for entity formation. Established in Wyoming in 1977, it offers a hybrid of partnerships and corporations that gives flexibility for members to decide on their taxation status and determine their rights largely through private operating agreements. They are typically anonymous, with only a registered agent and organizer being known to the State and general public.
 
-Delaware extended this internet-friendly with the creation of the [Series LLC](https://mirror.xyz/kalico.eth/PjwUyaJsHZIvJ3RfSMghcw_FS1ohrrQuXmD9XI5GJtk) concept, which is a formation format that allows a single filing to franchise out separate LLCs under a "master" operating agreement.
+Delaware extended this internet-friendly format with the creation of the [Series LLC](https://mirror.xyz/kalico.eth/PjwUyaJsHZIvJ3RfSMghcw_FS1ohrrQuXmD9XI5GJtk) concept, which allows a single filing to franchise out separate LLCs under a "master" operating agreement.
 
-[LexDAO](https://www.lexdao.coop/) engineers derived a technique called [Ricardian LLC](https://ricardian.gitbook.io/ricardian-llc/) that leveraged the ease of formation offered by Delaware Series LLC law but ensured separation of concerns through the use of NFTs, which guarantees uniqueness for associated entities through each tokenId.
+[LexDAO](https://www.lexdao.coop/) engineers derived a technique called [Ricardian LLC](https://ricardian.gitbook.io/ricardian-llc/) that leveraged the ease of formation offered by Delaware Series LLC law but [ensured separation of concerns](https://delawarebusinesstimes.com/sponsored-content/bizinsights/future-blockchain-blockchain-ledgers-help-protect-assets-within-delaware-series-llc/) through the use of NFTs, which guarantees uniqueness for associated entities through each tokenId.
 
 If users select Delaware or Wyoming LLC as an option through the [Wrappr app](https://app.wrappr.wtf/), they will receive a mint on an ERC-1155 token that has a sub-Series LLC agreement attached and completed through the terms of the master operating agreement with qualified code deference, stored on Ethereum and IPFS ([Delaware copy](https://del.llc.wrappr.documen.eth.link/), [Wyoming copy](https://wy.llc.wrappr.documen.eth.link/)).
 
@@ -46,13 +46,13 @@ Examples of DAO LLCs in the wild include [MetaCartel Ventures](https://github.co
 
 *Anyone can attach a UNA to their wallet, multi-sig or DAO to protect their personal assets from their web3 activities and qualify for tax benefits as a 501(c)(3) or other advantaged entity.*
 
-An unincorporated non-profit association (UNA) is a format for protecting the assets and giving a legal identity to projects serving a social purpose. Open source software projects and others that benefit the public over generating profits can qualify as an UNA under state law. 
+An unincorporated non-profit association (UNA) is a format for protecting assets and giving a legal identity to projects serving a social purpose. Open source software projects and others that benefit the public over generating profits can qualify as an UNA under state law. 
 
 UNAs can be created by two or more members through agreement without the need for state filing. They therefore are friendly alternatives to formal registration as a legal entity with the State with many of the same benefits but also greater anonymity for members. 
 
 Wrappr provides a form of UNA agreement that is drafted to attach to 0x accounts through minting an NFT and provide qualified code deference, stored on Ethereum and IPFS ([Delaware copy](https://del.una.wrappr.documen.eth.link/), [Wyoming copy](https://wy.una.wrappr.documen.eth.link/)).
 
-Examples of DAO UNAs in the wild include [Idle DAO](https://gov.idle.finance/t/legal-structure-for-the-idle-dao/682) and [LexDAO](https://lexdao.coop/). [Legal authors](https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol/blob/main/Operator's%20Manual%20-%20LeXpunK%20Legal%20Defense%20Protocol.pdf) have also argued that groups defined by a notable public purpose and organize via smart contracts should already have limited liability for their membership as UNA, such as the original Moloch DAO (nonetheless, it is the position of KALI team that clarifying this purpose and rules through use of a UNA Wrappr NFT is best of both worlds).
+Examples of DAO UNAs in the wild include [Idle DAO](https://gov.idle.finance/t/legal-structure-for-the-idle-dao/682) and [LexDAO](https://lexdao.coop/). [Legal authors](https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol/blob/main/Operator's%20Manual%20-%20LeXpunK%20Legal%20Defense%20Protocol.pdf) have also argued that groups defined by a notable public purpose and organized via smart contracts should already have limited liability for their membership as UNA, such as the original [Moloch DAO](https://molochdao.com/) (nonetheless, it is the position of KALI team that clarifying this purpose and rules through use of a UNA Wrappr NFT is best of both worlds). A template for DAO charter with qualified code deference is [stored on Ethereum and IPFS] (https://charter.wrappr.documen.eth.link/).
 
 If an UNA agreement is silent, [model law](https://www.uniformlaws.org/viewdocument/final-act-149?CommunityKey=40227d3a-8b5d-47c2-8cd0-b0ec12da97f9&tab=librarydocuments) prohibits transfers of membership interests by default.
 
