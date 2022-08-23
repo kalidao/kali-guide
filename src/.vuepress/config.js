@@ -35,28 +35,10 @@ module.exports = {
     sidebar: {
       "/start/": [
         {
-          title: "Start",
+          title: "Docs",
           collapsable: false,
           children: [
             "/start/"
-          ],
-        },
-      ],
-      "/create/": [
-        {
-          title: "Create",
-          collapsable: false,
-          children: [
-            "/create/",
-          ]
-        },
-      ],
-      "/explore/": [
-        {
-          title: "Explore",
-          collapsable: false,
-          children: [
-            "/explore/",
           ],
         },
       ],
