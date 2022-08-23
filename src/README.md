@@ -10,18 +10,18 @@ heroText: The Wrappr Guide.
 <div class="features">
 
   <a class="feature" href="https://app.wrappr.wtf/">
-    <h2>Start</h2>
-    <p>Launch into Legal NFTs</p>
+    <h2>Enter App</h2>
+    <p>Launch into Legal Wrappr NFTs</p>
   </a>
 
-  <a class="feature" href="/create">
-    <h2>Create</h2>
-    <p>Make your own Wrapprs</p>
+  <a class="feature" href="/start">
+    <h2>Get Started</h2>
+    <p>What are Legal Wrapprs?</p>
   </a>
 
   <a class="feature" href="/explore">
-    <h2>Explore</h2>
-    <p>Check out and mint Wrapprs</p>
+    <h2>Open Gallery</h2>
+    <p>Explore and mint Wrapprs</p>
   </a>
 
 </div>
