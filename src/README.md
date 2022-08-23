@@ -9,7 +9,7 @@ heroText: The Wrappr Guide.
 
 <div class="features">
 
-  <a class="feature" href="/start">
+  <a class="feature" href="https://app.wrappr.wtf/">
     <h2>Start</h2>
     <p>Launch into Legal NFTs</p>
   </a>
