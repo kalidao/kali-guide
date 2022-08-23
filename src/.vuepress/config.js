@@ -27,9 +27,7 @@ module.exports = {
     docsDir: "src",
     nav: [
       { text: "Home", link: "/" },
-      { text: "Start", link: "/start/" },
-      { text: "Create", link: "/create/" },
-      { text: "Explore", link: "/explore/" },
+      { text: "Docs", link: "/start/" },
     ],
     sidebarDepth: 10,
     sidebar: {
