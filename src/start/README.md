@@ -22,6 +22,8 @@ Delaware and Wyoming have been selected initially for their robust corporate law
 
 ## LLC
 
+![image](https://user-images.githubusercontent.com/92001561/186155486-cc3080ef-4555-4b2d-a254-f242b3afa753.png)
+
 *Anyone can attach an LLC to their wallet, multi-sig or DAO to make agreements and protect their personal assets from their web3 activities.*
 
 The limited liability company ([LLC](https://mirror.xyz/kalico.eth/vqfVO70rkW3_D7MQA7oKlcf5yErlHt2mRUsY62hNkT0)) was a game changer for entity formation. Established in Wyoming in 1977, it offers a hybrid of partnerships and corporations that gives flexibility for members to decide on their taxation status and determine their rights largely through private operating agreements. They are typically anonymous, with only a registered agent and organizer being known to the State and general public.
@@ -40,6 +42,8 @@ Examples of DAO LLCs in the wild include [MetaCartel Ventures](https://github.co
 
 ## UNA
 
+![image](https://user-images.githubusercontent.com/92001561/186155339-ce520914-4cb0-46f7-bb17-3696d0093327.png)
+
 *Anyone can attach a UNA to their wallet, multi-sig or DAO to protect their personal assets from their web3 activities and qualify for tax benefits as a 501(c)(3) or other advantaged entity.*
 
 An unincorporated non-profit association (UNA) is a format for protecting the assets and giving a legal identity to projects serving a social purpose. Open source software projects and others that benefit the public over generating profits can qualify as an UNA under state law. 
@@ -56,9 +60,11 @@ Care should be taken when distributing assets to UNA members as this may prevent
 
 ## DAO Charter
 
+![image](https://user-images.githubusercontent.com/92001561/186155234-6099e490-b635-4b0f-a583-425f41f47974.png)
+
 *Excerpted from LeXpunK Defense Protocol [Operator Manual](https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol/blob/main/Operator's%20Manual%20-%20LeXpunK%20Legal%20Defense%20Protocol.pdf)*
 
-The LeXpunK Model DAO Charter is intended for unincorporated DAOs that wish to seek to put in place risk mitigation measures against some of the risks of vicarious liability and potential intra-DAO fiduciary duty claims that may arise in unincorporated associations.
+The [LeXpunK Model DAO Charter](https://dev.wrappr.wtf/wrappr/1/0xa958f8d815a037e8ede8194dad70f9a3f3f94041) is intended for unincorporated DAOs that wish to seek to put in place risk mitigation measures against some of the risks of vicarious liability and potential intra-DAO fiduciary duty claims that may arise in unincorporated associations.
 
 The DAO Charter utilizes a “qualified code deference” philosophy of DAO participation, in which DAO members agree that, to the maximum extent permitted by law, the results of the operation of the relevant smart contract system should be legally binding on all the DAO members. This would entail, for example, that non-developer DAO members cannot sue developer DAO members as the result of a code or design error enabling an economic exploit in which DAO members suffered financial losses. 
 
