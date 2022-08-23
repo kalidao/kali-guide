@@ -5,3 +5,17 @@
 # Ok, WTF is a Legal NFT?
 
 A token that holds metadata that represents legal rights or formation filings with jurisdictions. These NFTs can also be programmed to respect transfer restrictions, hold user-specific metadata, and involve layered authorizations in order to more easily integrate with the legal system. The [Wrappr contract](https://github.com/kalidao/wrappr/blob/main/contracts/Wrappr.sol) was inspired by the Tokensoft security token implementation ([EIP-1404](https://erc1404.org/)) with the elaboration of [Compound-style governance](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) and the [ERC-1155 multi-token standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/).
+
+# Premades
+
+## LLC
+
+The limited liability company (LLC) was a game changer for entity formation. Established in Wyoming in 1977, it offered a hybrid of partnership and corporations that allowed flexibility for members to decide on their taxation status and determine their rights largely through private operating agreements. They are typically anonymous, with only a registered agent and organizer being known to the State and general public.
+
+Delaware extended the concept with the creation of the [Series LLC](https://mirror.xyz/kalico.eth/PjwUyaJsHZIvJ3RfSMghcw_FS1ohrrQuXmD9XI5GJtk), which is a formation format that allows a single filing to franchise out separate LLCs under a "master" operating agreement.
+
+LexDAO engineers derived a technique called Ricardian LLC.
+
+## UNA
+
+## Charter
