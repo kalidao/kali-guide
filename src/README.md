@@ -19,7 +19,7 @@ heroText: The Wrappr Guide.
     <p>Learn all about Wrapprs</p>
   </a>
 
-  <a class="feature" href="https://dev.wrappr.wtf/)">
+  <a class="feature" href="https://app.wrappr.wtf/explore">
     <h2>Open Gallery</h2>
     <p>Explore and mint Wrapprs</p>
   </a>
