@@ -1,6 +1,6 @@
 # WTF is Wrappr?
 
-[Wrappr](https://app.wrappr.wtf/) is a Legal NFT creation tool and gallery, starting with some pre-made ‘legal wrappers’ for wallets and DAOs. It allows lawyers and creative drafters to plug agreements into permission(able) NFTs and get paid for their awesome open source work.
+[Wrappr](https://app.wrappr.wtf/) is a Legal NFT minter and gallery, starting with some premade *[legal wrappers](https://www.paradigm.xyz/2022/06/legal-options-for-daos)* for wallets and DAOs. It gives attorneys and creative drafters the power to plug agreements into permission(able) NFTs and get paid for their awesome open source work.
 
 Wrappr is [multi-chain](https://github.com/kalidao/wrappr-ui/blob/main/src/constants/deployments.ts) and deployed on Ethereum, Arbitrum (including Nova), Optimism, Polygon, Gnosis, Fantom, Avalanche, Binance Smart Chain and Goerli (testnet). Using CREATE2, all Wrappr assets will share the same address on every chain.
 
@@ -12,7 +12,7 @@ A token that holds metadata that represents legal rights or formation filings wi
 
 These NFTs can also be programmed to respect transfer restrictions, hold user-specific metadata, and involve layered authorizations in order to more easily integrate with the legal system. 
 
-The [Wrappr contract](https://github.com/kalidao/wrappr/blob/main/contracts/Wrappr.sol) was inspired by the Tokensoft security token implementation ([EIP-1404](https://erc1404.org/)) with the elaboration of [Compound-style governance](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) and the [ERC-1155 multi-token standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/).
+The [Wrappr contract](https://github.com/kalidao/wrappr/blob/main/contracts/Wrappr.sol) was inspired by the Tokensoft security token implementation ([EIP-1404](https://erc1404.org/)) with the elaboration of [Compound-style governance](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) and the [ERC-1155 multi-token standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/). They are therefore DAO primitives themselves in addition to being legal wrappers.
 
 # Premades
 
@@ -26,7 +26,7 @@ Delaware extended this internet-friendly with the creation of the [Series LLC](h
 
 [LexDAO](https://www.lexdao.coop/) engineers derived a technique called [Ricardian LLC](https://ricardian.gitbook.io/ricardian-llc/) that leveraged the ease of formation offered by Delaware Series LLC law but ensured separation of concerns through the use of NFTs, which guarantees uniqueness for associated entities through each tokenId.
 
-If users select Delaware or Wyoming LLC as an option through the [Wrappr app](https://app.wrappr.wtf/), they will receive a mint on an ERC-1155 token that has a sub-Series LLC agreement attached and completed through the terms of the master operating agreement, stored on Ethereum and IPFS ([Delaware copy](https://del.llc.wrappr.documen.eth.link/), [Wyoming copy](https://wy.llc.wrappr.documen.eth.link/)).
+If users select Delaware or Wyoming LLC as an option through the [Wrappr app](https://app.wrappr.wtf/), they will receive a mint on an ERC-1155 token that has a sub-Series LLC agreement attached and completed through the terms of the master operating agreement with qualified code deference, stored on Ethereum and IPFS ([Delaware copy](https://del.llc.wrappr.documen.eth.link/), [Wyoming copy](https://wy.llc.wrappr.documen.eth.link/)).
 
 Creation of a bank account and obtaining an EIN for off-chain matters can be handled by the [LexDAO Clinic](https://j6dn81d0m26.typeform.com/to/BXwMVdWX).
 
@@ -40,7 +40,9 @@ Examples of DAO LLCs in the wild include [MetaCartel Ventures](https://github.co
 
 An unincorporated non-profit association (UNA) is a format for protecting the assets and giving a legal identity to projects serving a social purpose. Open source software projects and others that benefit the public over generating profits can qualify as an UNA under state law. 
 
-UNAs can be created by two or more members through agreement without the need for state filing. They therefore are friendly alternatives to formal registration as a legal entity with the State with many of the same benefits but also greater anonymity for members.
+UNAs can be created by two or more members through agreement without the need for state filing. They therefore are friendly alternatives to formal registration as a legal entity with the State with many of the same benefits but also greater anonymity for members. 
+
+Wrappr provides a form of UNA agreement that is drafted to attach to 0x accounts through minting an NFT and provide qualified code deference, stored on Ethereum and IPFS ([Delaware copy](https://del.una.wrappr.documen.eth.link/), [Wyoming copy](https://wy.una.wrappr.documen.eth.link/)).
 
 Examples of DAO UNAs in the wild include [Idle DAO](https://gov.idle.finance/t/legal-structure-for-the-idle-dao/682) and [LexDAO](https://lexdao.coop/). [Legal authors](https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol/blob/main/Operator's%20Manual%20-%20LeXpunK%20Legal%20Defense%20Protocol.pdf) have also argued that groups defined by a notable public purpose and organize via smart contracts should already have limited liability for their membership as UNA, such as the original Moloch DAO (nonetheless, it is the position of KALI team that clarifying this purpose and rules through use of a UNA Wrappr NFT is best of both worlds).
 
