@@ -9,14 +9,14 @@ heroText: The Wrappr Guide.
 
 <div class="features">
 
-  <a class="feature" href="https://app.wrappr.wtf/">
-    <h2>Enter App</h2>
-    <p>Launch into Legal Wrapprs</p>
-  </a>
-
   <a class="feature" href="/start">
     <h2>Get Started</h2>
     <p>Learn all about Wrapprs</p>
+  </a>
+
+  <a class="feature" href="https://app.wrappr.wtf/">
+    <h2>Enter App</h2>
+    <p>Launch into Legal Wrapprs</p>
   </a>
 
   <a class="feature" href="https://app.wrappr.wtf/explore">
