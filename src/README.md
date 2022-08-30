@@ -9,7 +9,7 @@ heroText: The Wrappr Guide.
 
 <div class="features">
 
-  <a class="feature" href="/get-started">
+  <a class="feature" href="/get-started/what">
     <h2>Getting Started</h2>
     <p>An introduction to Wrappr.</p>
   </a>
