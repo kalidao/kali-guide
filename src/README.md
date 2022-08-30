@@ -9,19 +9,19 @@ heroText: The Wrappr Guide.
 
 <div class="features">
 
-  <a class="feature" href="/start">
-    <h2>Get Started</h2>
-    <p>Learn all about Wrapprs</p>
+  <a class="feature" href="/get-started">
+    <h2>Getting Started</h2>
+    <p>An introduction to Wrappr.</p>
   </a>
 
   <a class="feature" href="https://app.wrappr.wtf/">
     <h2>Enter App</h2>
-    <p>Launch into Legal Wrapprs</p>
+    <p>Mint Legal NFTs with the Wrappr Suite.</p>
   </a>
 
   <a class="feature" href="https://app.wrappr.wtf/explore">
     <h2>Open Gallery</h2>
-    <p>Explore and mint Wrapprs</p>
+    <p>Dive into different Wrappr collections made by KALI and community.</p>
   </a>
 
 </div>
