@@ -1,26 +1,34 @@
-# WTF is Wrappr?
+# 🍬 Getting Started
 
-[Wrappr](https://app.wrappr.wtf/) is a Legal NFT minter and gallery, starting with some premade *[legal wrappers](https://www.paradigm.xyz/2022/06/legal-options-for-daos)* for wallets and DAOs. It gives attorneys and creative drafters the power to plug agreements into permission(able) NFTs and get paid for their awesome open source work.
+## 🤷 What is Wrappr?
 
-Wrappr is [multi-chain](https://github.com/kalidao/wrappr-ui/blob/main/src/constants/deployments.ts) and deployed on Ethereum, Arbitrum (including Nova), Optimism, Polygon, Gnosis, Fantom, Avalanche, Binance Smart Chain and Goerli (testnet). Using CREATE2, all Wrappr assets will share the same address on every chain.
+[Wrappr](https://app.wrappr.wtf/) is a *Legal NFT* minter and gallery. It comes with premade *[legal wrappers](https://www.paradigm.xyz/2022/06/legal-options-for-daos)* for wallets and DAOs. These protect and allow wallets and DAOs to own IRL assets and shield liabilities from interacting with crypto. The Wrappr suite also gives attorneys and creative drafters the power to plug agreements into NFTs and get paid for their awesome open source work.
 
-Sections in this explainer guide are excerpted from the [Paradigm Legal Matrix](https://daos.paradigm.xyz/).
+## 🗺️ Where is Wrappr?
 
-# Ok, WTF is a Legal NFT?
+Wrappr is everywhere you go. Specifically, Wrappr is [multi-chain](https://github.com/kalidao/wrappr-ui/blob/main/src/constants/deployments.ts) and deployed on Ethereum, Arbitrum (including Nova), Optimism, Polygon, Gnosis, Fantom, Avalanche, Binance Smart Chain and Goerli (testnet). 
 
-A token that holds metadata that represents legal rights or formation filings with jurisdictions. 
+Using CREATE2 (some code magick), all Wrappr assets will share the same address on every chain.
+
+Sections in this explainer guide are excerpted from the [Paradigm Legal Matrix](https://daos.paradigm.xyz/). Please carefully review this guide and linked materials to get the most out of Wrappr.
+
+## ⚖️ What are Legal NFTs?
+
+A token that holds metadata that represents legal rights or formation filings with jurisdictions. This can mean a link to the image of an agreement drafted with *qualified code deference*, a concept that basically means code is law except in some cases.
 
 These NFTs can also be programmed to respect transfer restrictions, hold user-specific metadata, and involve layered authorizations in order to more easily integrate with the legal system. 
 
 The [Wrappr contract](https://github.com/kalidao/wrappr/blob/main/contracts/Wrappr.sol) was inspired by the Tokensoft security token implementation ([EIP-1404](https://erc1404.org/)) with the elaboration of [Compound-style governance](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) and the [ERC-1155 multi-token standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/). They are therefore DAO primitives themselves in addition to being legal wrappers, and the first implementation of a voting ERC-1155.
 
-# Premades
+# 🪄 How-To Wrappr
+
+## 📋 Quick Notes
 
 The [KALI](https://www.kali.gg/) legal engineering team has drafted forms of Wrappr NFT templates that can mint to provide legal protection and certainty to Ethereum and other EVM users.
 
 Delaware and Wyoming have been selected initially for their robust corporate law and DAO sophistication.
 
-## LLC
+## 🏢 LLC
 
 ![image](https://user-images.githubusercontent.com/92001561/186155486-cc3080ef-4555-4b2d-a254-f242b3afa753.png)
 
@@ -40,7 +48,7 @@ The maintenance of the Wrappr LLC filings, registered agent and annual State fra
 
 Examples of DAO LLCs in the wild include [MetaCartel Ventures](https://github.com/metacartel/MCV/blob/master/Legal/Grimoire%20and%20Exhibits/MCV-Grimoire-Final-All-Exhihbits.pdf) and [The LAO](https://medium.com/openlawofficial/the-lao-a-for-profit-limited-liability-autonomous-organization-9eae89c9669c) investment clubs.
 
-## UNA
+## 🌱 UNA
 
 ![image](https://user-images.githubusercontent.com/92001561/186155339-ce520914-4cb0-46f7-bb17-3696d0093327.png)
 
@@ -58,7 +66,7 @@ If an UNA agreement is silent, [model law](https://www.uniformlaws.org/viewdocum
 
 Care should be taken when distributing assets to UNA members as this may prevent it from retaining its limited liability as a non-profit venture. Note, however, UNAs may engage in activities that produce profit so long as they are in furtherance of the non-profit purpose.
 
-## DAO Charter
+## 📜 DAO Charter
 
 ![image](https://user-images.githubusercontent.com/92001561/186155234-6099e490-b635-4b0f-a583-425f41f47974.png)
 
@@ -78,7 +86,7 @@ The other main purpose of the DAO Charter is to opt out of some of the adverse c
 
 * disclaim any property right any individual DAO member might otherwise be implied to have in any DAO-controlled assets (e.g., rights of co-tenants as discussed above), other than once those assets are distributed to DAO members by the smart contract system.
 
-# Create
+# ✍️ Create Wrapprs
 
 ![image](https://user-images.githubusercontent.com/92001561/185824141-0ca61586-3baf-48b0-b262-01824c3f4234.png)
 
@@ -94,11 +102,10 @@ Finally, an `admin` role can be given that allows access to minting and updating
 
 If the minting fee is set very high, the Wrappr is effectively private and mints can only occur through the admin or manager roles. If the `admin` is set to 0x00, then there is effectively no permissioning.
 
-# Explore
+# 🖼️ Explore Wrapprs
 
 ![image](https://user-images.githubusercontent.com/92001561/185830304-698a4c2b-1da2-4a12-93d4-edec8830b940.png)
 
 The [Explore tab](https://app.wrappr.wtf/explore) allows users to review public mintable Wrapprs. After paying the minting fee, the user can send a Wrappr NFT to their chosen account, such as a DAO or multi-sig. These NFTs will be viewable on other NFT gallery sites such as [OpenSea](https://opensea.io/) and [LooksRare](https://looksrare.org/), as well as the user's wallet, such as [Rainbow](https://rainbow.me/).
 
 ![image](https://user-images.githubusercontent.com/92001561/185830350-dcaaad99-b17a-4a04-aa2a-03c2df5ede25.png)
-
