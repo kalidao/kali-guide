@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Home
 heroImage: /wrappr-logo.png
-heroText: The Wrappr Guide.
+heroText: Wrappr.
 
 ---
 

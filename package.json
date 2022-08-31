@@ -1,7 +1,7 @@
 {
-  "name": "kali-guide",
+  "name": "wrappr",
   "version": "0.2.0",
-  "description": "Your trusty tool for crypto legal protection",
+  "description": "The crypto law suite.",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
