@@ -16,12 +16,12 @@ heroText: Wrappr.
 
   <a class="feature" href="https://app.wrappr.wtf/">
     <h2>Enter App</h2>
-    <p>Mint Legal NFTs with the Wrappr Suite.</p>
+    <p>Mint Legal NFTs to limit liability, structure orgs and make deals.</p>
   </a>
 
   <a class="feature" href="https://app.wrappr.wtf/explore">
     <h2>Open Gallery</h2>
-    <p>Dive into different Wrappr collections made by KALI and community.</p>
+    <p>Dive into different Wrappr collections.</p>
   </a>
 
 </div>
