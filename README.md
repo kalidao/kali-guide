@@ -2,7 +2,7 @@
 
 # wrappr-docs • ![License](https://img.shields.io/github/license/kalidao/wrappr-docs)
 
-> [KALI](https://github.com/kalidao) Language Documentation built with [Vuepress](https://vuepress.vuejs.org/) and deployed at [wrappr.wtf](https://www.wrappr.wtf/).
+> [Wrappr](https://github.com/kalidao/wrappr) Documentation built with [Vuepress](https://vuepress.vuejs.org/) and deployed at [wrappr.wtf](https://www.wrappr.wtf/).
 
 ## Usage
 
