@@ -16,7 +16,7 @@ heroText: Wrappr.
 
   <a class="feature" href="https://app.wrappr.wtf/">
     <h2>Enter App</h2>
-    <p>Mint Legal NFTs to limit liability, structure orgs and make deals.</p>
+    <p>Mint legal NFTs to limit liability, structure orgs and make deals.</p>
   </a>
 
   <a class="feature" href="https://app.wrappr.wtf/explore">
