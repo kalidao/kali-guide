@@ -12,7 +12,7 @@ Jurisdictions with neutral e-signature laws that should support cryptographic ke
 
 In the U.S, for example, the E-Sign Act and the Uniform Electronic Transactions Acts (UETA) define “electronic signature” as “an electronic sound, symbol, or process, attached to or logically associated with a contract or record and executed or adopted by a person with the intent to sign the record.” Therefore, for electronic signatures to be qualified under U.S. law, signers have to demonstrate their intent to sign the document, and the signature must be electronically connected to the corresponding document signed and cannot be transmitted to anyone else or onto any other document.
 
-Wrappr key-sign demonstrates user intent to be legally bound by providing smart contracts that record affirmation of text that can be reviewed on the Wrappr app. Each key-sign is logically connected to each user through their private key. These records and secure and immutable. Further, records of such agreements are identified by NFT tokenIds linked to each user account.
+Wrappr key-sign demonstrates user intent to be legally bound by providing smart contracts that record affirmation of text that can be reviewed on the Wrappr app. Each key-sign is logically connected to each user through their private key. These records are secure and immutable. Further, Wrappr agreements are identified by NFT tokenIds linked to each user account.
 
 For Wrappr entity templates, such as LLC and UNA, U.S. law will be selected. For the best results in selecting unpegged templates, users should consider the above and opt for their choice of governing law to be e-sign neutral.
 
