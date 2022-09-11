@@ -24,6 +24,6 @@ The other main purpose of the DAO Charter is to opt out of some of the adverse c
 
 * disclaim any property right any individual DAO member might otherwise be implied to have in any DAO-controlled assets (e.g., rights of co-tenants as discussed above), other than once those assets are distributed to DAO members by the smart contract system.
 
-## 🍊 Orange Charter
+### 🍊 Orange Charter
 
 The Orange DAO Charter is CC0 form that sets out clear and low-legal terms for token communities, with an emphasis on mission and committee organization.
