@@ -4,8 +4,6 @@ Wrappr is everywhere you go. Specifically, Wrappr is [multi-chain](https://githu
 
 Using CREATE2 (*some code magick*), all Wrapprs will share the same address on every chain.
 
-Sections in this explainer guide are excerpted from the [Paradigm Legal Matrix](https://daos.paradigm.xyz/). Please carefully review this guide and linked materials to get the most out of Wrappr.
-
 ### 🏛️ Jurisdictions
 
 #### 🏢 Delaware
