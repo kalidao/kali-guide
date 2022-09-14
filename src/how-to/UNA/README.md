@@ -10,11 +10,11 @@ UNAs can be created by two or more members through agreement without the need fo
 
 ### On-chain Formation
 
-Wrappr provides a form of UNA agreement that is drafted to attach to 0x accounts through minting an NFT and provide qualified code deference, stored on Ethereum and IPFS ([Delaware copy](https://del.una.wrappr.documen.eth.link/), [Wyoming copy](https://wy.una.wrappr.documen.eth.link/)).
+Wrappr provides a form of UNA agreement that is drafted to attach to accounts through minting an NFT and provide qualified code deference, stored on Ethereum and IPFS ([Delaware copy](https://de.una.ricardian.eth.limo/), [Wyoming copy](https://wy.una.ricardian.eth.limo/)).
 
 ### Examples
 
-Examples of DAO UNAs in the wild include [Idle DAO](https://gov.idle.finance/t/legal-structure-for-the-idle-dao/682) and [LexDAO](https://lexdao.coop/). [Legal authors](https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol/blob/main/Operator's%20Manual%20-%20LeXpunK%20Legal%20Defense%20Protocol.pdf) have also argued that groups defined by a notable public purpose and organized via smart contracts should already have limited liability for their membership as UNA, such as the original [Moloch DAO](https://molochdao.com/) (nonetheless, it is the position of KALI team that clarifying this purpose and rules through use of a UNA Wrappr NFT is best of both worlds). A template for DAO charter with qualified code deference is [stored on Ethereum and IPFS] (https://charter.wrappr.documen.eth.link/).
+Examples of DAO UNAs in the wild include [Idle DAO](https://gov.idle.finance/t/legal-structure-for-the-idle-dao/682) and [LexDAO](https://lexdao.coop/). [Legal authors](https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol/blob/main/Operator's%20Manual%20-%20LeXpunK%20Legal%20Defense%20Protocol.pdf) have also argued that groups defined by a notable public purpose and organized via smart contracts should already have limited liability for their membership as UNA, such as the original [Moloch DAO](https://molochdao.com/).
 
 ### Extra Notes
 
