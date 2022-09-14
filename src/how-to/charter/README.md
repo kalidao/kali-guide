@@ -8,7 +8,7 @@ Charters provide DAOs with the terms to self-organize and sets rules for their m
 
 #### Background
 
-The [LeXpunK Model DAO Charter](https://dev.wrappr.wtf/wrappr/1/0xa958f8d815a037e8ede8194dad70f9a3f3f94041) is intended for unincorporated DAOs that wish to seek to put in place risk mitigation measures against some of the risks of vicarious liability and potential intra-DAO fiduciary duty claims that may arise in unincorporated associations.
+The [LeXpunK Model DAO Charter](https://lexpunk.charter.ricardian.eth.limo/) is intended for unincorporated DAOs that wish to seek to put in place risk mitigation measures against some of the risks of vicarious liability and potential intra-DAO fiduciary duty claims that may arise in unincorporated associations.
 
 The DAO Charter utilizes a “qualified code deference” philosophy of DAO participation, in which DAO members agree that, to the maximum extent permitted by law, the results of the operation of the relevant smart contract system should be legally binding on all the DAO members. This would entail, for example, that non-developer DAO members cannot sue developer DAO members as the result of a code or design error enabling an economic exploit in which DAO members suffered financial losses. 
 
@@ -26,4 +26,4 @@ The other main purpose of the DAO Charter is to opt out of some of the adverse c
 
 ### 🍊 Orange Charter
 
-The Orange DAO Charter is CC0 form that sets out clear and low-legal terms for token communities, with an emphasis on mission and committee organization.
+The [Orange DAO Charter](https://orange.charter.ricardian.eth.limo/) is CC0 form that sets out clear and low-legal terms for token communities, with an emphasis on mission and committee organization. Ventures and social clubs can reference its term to establish a Code of Conduct, as well as clarify their mission and ethos. 
