@@ -1,6 +1,6 @@
 # 🖼️ Explore Wrapprs
 
-The [Explore tab](https://app.wrappr.wtf/explore) allows users to review public mintable Wrapprs. 
+The [Explore tab](https://www.wrappr.wtf/1/explore) allows users to review public mintable Wrapprs. 
 
 After paying the minting fee, the user can send a Wrappr NFT to their chosen account, such as a DAO or multi-sig. 
 
