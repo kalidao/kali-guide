@@ -16,4 +16,27 @@ Wrappr key-sign demonstrates user intent to be legally bound by providing smart 
 
 For Wrappr entity templates, such as LLC and UNA, U.S. law will be selected. For the best results in selecting unpegged templates, users should consider the above and opt for their choice of governing law to be e-sign neutral.
 
+# ✋ FAQs
+
+### 1) Why can any address in Ethereum be a Delaware LLC?
+
+Any address (public key) can be a Delaware LLC because a public key is derived from a real person holding the private key and access to signatures. This is similar to how we can identify people on the internet using their email address and other IDs. In this way, we can have a public key and "wallet" act as a solo LLC. Or, in the case of a DAO or multi-sig that can also sign the Wrappr contracts, a member-managed LLC represented by the key signature set. Check out some of our [review of e-signature laws](https://docs.wrappr.wtf/how-to/quick-notes/#%E2%9C%92%EF%B8%8F-legality-of-key-signatures) and how they work with key signatures. 
+
+### 2) Isn't there some kind of registration process needed in the real world, e.g. some kind of LLC ledger in actual Delaware?
+
+In Wrappr, we have registered LLCs already as "Master" LLCs in Delaware and Wyoming. So, registration with the state is already taken care of. Series LLCs have been around since the 90s and are a really good format for internet-native companies. Check out some of our [research](https://mirror.xyz/kalico.eth/PjwUyaJsHZIvJ3RfSMghcw_FS1ohrrQuXmD9XI5GJtk) we commissioned that summarize the state of LLC law on this subject.
+
+### 3) Is it okay that the NFT holder is pseudo anonymous?
+
+Yes, Delaware and Wyoming are "anonymous" LLC states. They do not require the owner to be filed. It is worth noting, however, that in many cases, in order to conduct business as an LLC you will need to have some sort of representative
+
+### 4) Is the NFT transferable and is that equal to transferring the ownership of the LLC?
+
+Correct, the ownership of the NFT represents legal ownership of the LLC. This makes it convenient to attach legal assets to NFT. If you mint an NFT, you can actually store details about what your LLC owns off-chain in the token itself through our custom metadata functions (`setURI()`).
+
+### 5) And what happens in case of disputes? Jurisdiction is Delaware so a court in Delaware can be called if a user wants to "sue" a Delaware LLC DAO?
+
+The agreements for Wrappr LLCs do not require going to court. They in fact require arbitration in terms of any internal disagreements.
+
+
 
