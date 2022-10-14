@@ -16,7 +16,7 @@ Wrappr key-sign demonstrates user intent to be legally bound by providing smart 
 
 For Wrappr entity templates, such as LLC and UNA, U.S. law will be selected. For the best results in selecting unpegged templates, users should consider the above and opt for their choice of governing law to be e-sign neutral.
 
-# ✋ FAQs
+## ✋ FAQs
 
 ### 1) Why can any address in Ethereum be a Delaware LLC?
 
