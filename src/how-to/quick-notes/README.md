@@ -40,7 +40,7 @@ Correct, the ownership of the NFT represents legal ownership of the LLC. This ma
 
 The agreements for Wrappr LLCs do not require going to court. They in fact require arbitration in terms of any internal disagreements.
 
-### 🏵🧑‍⚖️ Litigation with DAOs
+### 🧑‍⚖️ Litigation with DAOs
 
 
 
