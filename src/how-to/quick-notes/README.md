@@ -18,6 +18,8 @@ For Wrappr entity templates, such as LLC and UNA, U.S. law will be selected. For
 
 ## ✋ FAQs
 
+### 🏵️ Tokenized LLC
+
 ### 1) Why can any address in Ethereum be a Delaware LLC?
 
 Any address (public key) can be a Delaware LLC because a public key is derived from a real person holding the private key and access to signatures. This is similar to how we can identify people on the internet using their email address and other IDs. In this way, we can have a public key and "wallet" act as a solo LLC. Or, in the case of a DAO or multi-sig that can also sign the Wrappr contracts, a member-managed LLC represented by the key signature set. Check out some of our [review of e-signature laws](https://docs.wrappr.wtf/how-to/quick-notes/#%E2%9C%92%EF%B8%8F-legality-of-key-signatures) and how they work with key signatures. 
@@ -37,6 +39,8 @@ Correct, the ownership of the NFT represents legal ownership of the LLC. This ma
 ### 5) And what happens in case of disputes? Jurisdiction is Delaware so a court in Delaware can be called if a user wants to "sue" a Delaware LLC DAO?
 
 The agreements for Wrappr LLCs do not require going to court. They in fact require arbitration in terms of any internal disagreements.
+
+### 🏵🧑‍⚖️ Litigation with DAOs
 
 
 
