@@ -33,7 +33,7 @@ So, DAOs might opt for a "siloed" entity structure, wrapping it's treasury in a 
 
 ### Taxation
 
-UNAs are taxed as corporations (21%) unless other election is made. However, since no dividends can be distributed to members without disqualifying UNA, taxation is effectively limited to the entity level. They must file estimated taxes each wuarter and file annual tax return [[2]](#2).
+UNAs are taxed as corporations (21%) unless other election is made. However, since no dividends can be distributed to members without disqualifying UNA, taxation is effectively limited to the entity level. They must file estimated taxes each quarter and file annual tax return [[2]](#2).
 
 
 ## References
