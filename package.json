@@ -1,6 +1,6 @@
 {
   "name": "wrappr",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "The crypto law suite.",
   "scripts": {
     "dev": "vuepress dev src",
@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.9.7"
   },
   "dependencies": {
     "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
