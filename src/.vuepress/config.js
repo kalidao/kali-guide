@@ -28,7 +28,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Get Started", link: "/get-started/what/" },
-      { text: "How To", link: "/how-to/quick-notes/" },
+      { text: "Legal Setup", link: "/how-to/quick-notes/" },
       { text: "Create", link: "/create/" },
       { text: "Explore", link: "/explore/" },
     ],
@@ -41,18 +41,17 @@ module.exports = {
           children: [
             "/get-started/what/",
             "/get-started/where/",
-            "/get-started/why/",
           ],
         },
       ],
       "/how-to/": [
         {
-          title: "How To",
+          title: "Legal Setup",
           collapsable: false,
           children: [
             "/how-to/quick-notes/",
             "/how-to/LLC/",
-            "/how-to/UNA/",
+            "/how-to/non-profit/",
             "/how-to/charter/",
           ],
         },

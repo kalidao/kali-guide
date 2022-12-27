@@ -14,14 +14,14 @@ heroText: Wrappr.
     <p>An introduction to Wrappr.</p>
   </a>
 
-  <a class="feature" href="https://app.wrappr.wtf/">
+  <a class="feature" href="https://wrappr.wtf/">
     <h2>Enter App</h2>
-    <p>Mint legal NFTs to limit liability, structure orgs and make deals.</p>
+    <p>Mint Wrappr NFTs.</p>
   </a>
 
-  <a class="feature" href="https://app.wrappr.wtf/explore">
-    <h2>Open Gallery</h2>
-    <p>Dive into different Wrappr collections.</p>
+  <a class="feature" href="https://wrappr.wtf/explore">
+    <h2>Enter Gallery</h2>
+    <p>Explore Wrappr collections.</p>
   </a>
 
 </div>
@@ -38,7 +38,7 @@ heroText: Wrappr.
       </a>
     </li>
     <li>
-      <a id="icon" href="https://twitter.com/_kalidao" target="_blank">
+      <a id="icon" href="https://twitter.com/kali__gg" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter"
           viewBox="0 0 16 16">
           <path
@@ -47,7 +47,7 @@ heroText: Wrappr.
       </a>
     </li>
     <li>
-      <a id="icon" href="https://discord.gg/UKCS9ghzUE" target="_blank">
+      <a id="icon" href="https://discord.com/invite/kpMs4gzSyV" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-discord"
           viewBox="0 0 16 16">
           <path

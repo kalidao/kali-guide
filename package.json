@@ -1,7 +1,7 @@
 {
   "name": "wrappr",
-  "version": "0.3.0",
-  "description": "The crypto law suite.",
+  "version": "0.2.0",
+  "description": "Your crypto law suite.",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
