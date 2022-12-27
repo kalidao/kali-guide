@@ -15,7 +15,9 @@ Minting a Wrappr can also provide optimizations around tax jurisdiction, ownersh
 The benefit of using NFTs to incorporate are threefold:
 
 (1) *Paperwork is easy to find* and can be shown in a wallet or DAO treasury through multiple apps.
+
 (2) *Incorporation is completely online*: Users control how much info they want to reveal at all times, pay in crypto, and their legal status is machine-readable.
+
 (3) *Secure recordkeeping*: Important documentation is permanently uploaded to the blockchain and IPFS and cannot be hacked.
 
 Users can also be sure that their Wrapprs are up-to-date with the best terms and legal frameworks as they are [maintained in open source](https://github.com/kalidao/kali-legal) with a wide range of contributors.

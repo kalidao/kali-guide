@@ -1,4 +1,4 @@
-# 📋 Quick Notes
+# Quick Notes
 
 The [Kali](https://www.kali.gg/) legal team and contributors have drafted forms of Wrappr for public minting, starting with LLC, Non-profit, and Charter templates.
 
@@ -6,7 +6,7 @@ These are drafted to work with both Delaware and Wyoming law, as well as "defer"
 
 These forms are accessed through signing and minting a Wrappr NFT with your wallet. These incorporation NFTs can be sent to a DAO to confirm acceptance or minted directly by a DAO through the Wrappr "wallet connect" option.
 
-## ✒️ Legality of Key-signatures
+## Legality of key signatures
 
 Jurisdictions with neutral e-signature laws that should support cryptographic key-signatures (key-sign) include the United States, Canada, China, Australia, New Zealand, Cayman Islands, and BVI. Key-sign in these jurisdictions carries the same (or similar) legal weight as handwritten signatures as long as they satisfy general requirements of the specific country’s law.
 

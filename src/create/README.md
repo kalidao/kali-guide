@@ -1,4 +1,4 @@
-# ✍️ Create Wrapprs
+# Create Wrapprs
 
 The Wrappr app allows you to deploy your own Wrappr NFT minter via the [Create](https://www.wrappr.wtf/create) tab.
 

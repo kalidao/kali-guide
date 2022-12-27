@@ -1,4 +1,4 @@
-# 🖼️ Explore Wrapprs
+# Explore Wrapprs
 
 The [Explore tab](https://www.wrappr.wtf/1/explore) allows you to review public Wrapprs. 
 

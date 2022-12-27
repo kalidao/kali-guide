@@ -1,4 +1,4 @@
-## 🏢 LLC
+## LLC
 
 *Anyone can attach an LLC to their wallet, multi-sig or DAO to make agreements, interface with IRL and guard themselves against personal liability.*
 

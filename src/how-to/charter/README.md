@@ -1,8 +1,8 @@
-## 📜 DAO Charter
+## DAO Charter
 
 Charters provide DAOs with the terms to self-organize and sets rules for their members and dispute-resolution without explicitly adopting a formal legal entity.
 
-### 🦍 LeXpunk DAO Charter
+### LeXpunk DAO Charter
 
 *Excerpted from LeXpunK Defense Protocol [Operator Manual](https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol/blob/main/Operator's%20Manual%20-%20LeXpunK%20Legal%20Defense%20Protocol.pdf)*
 
@@ -24,6 +24,6 @@ The other main purpose of the DAO Charter is to opt out of some of the adverse c
 
 * disclaim any property right any individual DAO member might otherwise be implied to have in any DAO-controlled assets (e.g., rights of co-tenants as discussed above), other than once those assets are distributed to DAO members by the smart contract system.
 
-### 🍊 Orange Charter
+### Orange Charter
 
 The [Orange DAO Charter](https://orange.charter.ricardian.eth.limo/) is CC0 form that sets out clear and low-legal terms for token communities, with an emphasis on mission and committee organization. Ventures and social clubs can reference its term to establish a Code of Conduct, as well as clarify their mission and ethos. 
