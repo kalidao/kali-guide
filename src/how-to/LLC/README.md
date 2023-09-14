@@ -6,7 +6,7 @@
 
 The limited liability company ([LLC](https://mirror.xyz/kalico.eth/vqfVO70rkW3_D7MQA7oKlcf5yErlHt2mRUsY62hNkT0)) was a game changer for corporate law.
 
-Established in Wyoming (1977), LLCs offer a hybrid of partnerships and corporations with flexibility to decide on taxation status and set membership and operating terms through private operating agreements. They are typically anonymous, with only a registered agent and organizer being known to the State and general public. They are therefore very suitable legal wrappers for DAOs and other organizations that wish to run on smart contracts.
+Established in Wyoming (1977), LLCs offer a hybrid of partnerships and corporations with flexibility to decide on taxation status and set membership and operating terms through private operating agreements. They are practically anonymous, with only a registered agent and organizer being known to the State and general public. They are therefore very suitable legal wrappers for DAOs and other organizations that wish to run on smart contracts.
 
 Delaware extended this web3-friendly format with the creation of the [Series LLC](https://mirror.xyz/kalico.eth/PjwUyaJsHZIvJ3RfSMghcw_FS1ohrrQuXmD9XI5GJtk) concept, which allows a single filing to franchise out separate LLC "Series" under a "Master" operating agreement. (The Delaware corporate statute can be [reviewed here](https://law.justia.com/codes/delaware/2014/title-6/chapter-18/subchapter-ii/section-18-215).) 
 
@@ -52,7 +52,7 @@ A Wrappr user might in this case attach an LLC NFT to their DAO treasury or mult
 
 ### Do LLCs Centralize DAOs?
 
-Since DAOs and LLCs share common structuring through private ordering (*i.e.*, membership and operating rules are set by agreement), the mere creation of an LLC does not centralize the membership but simply provides an IRL interface and legal name to the DAO. Essentially, a DAO is already an operating agreement represented by code--an LLC just provides a legal identity to this code to deal with the public. Anonymity is not compromised--membership is not disclosed to the state or anyone. In using Wrappr LLC NFTs, the DAO also is not required to hire any representatives to manage off-chain affairs, providing even greater privacy to DAOs. At the end of the day, the DAO LLC can be converted to another entity structure or discarded at any time by the DAO members, preserving autonomy.
+Since DAOs and LLCs share common structuring through private ordering (*i.e.*, membership and operating rules are set by agreement), the mere creation of an LLC does not centralize the membership but simply provides an IRL interface and legal name to the DAO. Essentially, a DAO is already an operating agreement represented by code--an LLC just provides a legal identity to this code to deal with the public. Anonymity is not compromised for purposes of public record--membership is not disclosed to the state or general public (though note, of course, that tax and other federal reporting, like personal reporting, comes into play). In using Wrappr LLC NFTs, the DAO also is not required to hire any representatives to manage off-chain affairs, providing even greater privacy to DAOs. At the end of the day, the DAO LLC can be converted to another entity structure or discarded at any time by the DAO members, preserving autonomy.
 
 ### Opening Bank Accounts
 

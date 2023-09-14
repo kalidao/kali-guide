@@ -8,7 +8,7 @@ Using [CREATE2](https://docs.openzeppelin.com/cli/2.8/deploying-with-create2), a
 
 #### Delaware
 
-Delaware is the most popular venue for setting up businesses for investment and provides anonymity to LLCs and their members. It has strong preference for "freedom of contract," which means that the terms of an agreement will usually be respected by a court.
+Delaware is the most popular venue for setting up businesses for investment and provides practical anonymity to LLCs and their members without requiring public records of ownership. It has strong preference for "freedom of contract," which means that the terms of an agreement will usually be respected by a court.
 
 Examples of Delaware-wrapped DAOs: *The LAO, Metacartel Ventures, Flamingo*
 
