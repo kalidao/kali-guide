@@ -1,6 +1,6 @@
 ## Where is Wrappr?
 
-Wrappr is [multi-chain](https://github.com/kalidao/wrappr-ui/blob/main/src/constants/deployments.ts) and deployed on Ethereum, Arbitrum (including Nova), Optimism, Polygon, Gnosis, Fantom, Avalanche, Binance Smart Chain and Goerli (testnet). 
+Wrappr is [multi-chain](https://github.com/kalidao/wrappr-ui/blob/main/src/constants/deployments.ts) and deployed on Ethereum, Arbitrum (including Nova), Optimism, Polygon, Gnosis, Fantom, Avalanche, Binance Smart Chain and Goerli (testnet).
 
 Using [CREATE2](https://docs.openzeppelin.com/cli/2.8/deploying-with-create2), all Wrapprs share the same address on every chain.
 
@@ -17,3 +17,7 @@ Examples of Delaware-wrapped DAOs: *The LAO, Metacartel Ventures, Flamingo*
 Wyoming is catering to the needs of blockchain users and has DAO-specific legislation that promotes and helps protect on-chain organizations. It is the birthplace of the LLC and has strong norms of protecting property rights.
 
 Examples of Wyoming-wrapped DAOs: *LexDAO, CityDAO, IdleDAO*
+
+#### Marshall Islands (New)
+
+The Marshall Islands has adopted a legal framework heavily influenced by Delaware's LLC law. This strategic choice offers entities a blend of privacy, flexibility, and a legal environment open to digital innovations, making it an appealing offshore destination for emerging DAOs.
