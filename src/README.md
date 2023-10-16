@@ -2,26 +2,26 @@
 home: true
 icon: home
 title: Home
-# heroImage: /huff_transparent.png
-heroText: The Kali Guide.
+heroImage: /wrappr-logo.png
+heroText: Wrappr.
 
 ---
 
 <div class="features">
 
-  <a class="feature" href="/get-started/overview">
+  <a class="feature" href="/get-started/what/">
     <h2>Getting Started</h2>
-    <p>An introduction to Huff.</p>
+    <p>An introduction to Wrappr.</p>
   </a>
 
-  <a class="feature" href="/resources/overview/">
-    <h2>Resources</h2>
-    <p>Documentation, Third-party tools, Examples, and other useful resources.</p>
+  <a class="feature" href="https://wrappr.wtf/">
+    <h2>Enter App</h2>
+    <p>Mint Wrappr NFTs.</p>
   </a>
 
-  <a class="feature" href="/contribute/overview/">
-    <h2>Contribute</h2>
-    <p>Discover how to contribute to the Huff Community and join the conversation!</p>
+  <a class="feature" href="https://wrappr.wtf/explore">
+    <h2>Enter Gallery</h2>
+    <p>Explore Wrappr collections.</p>
   </a>
 
 </div>
@@ -38,7 +38,7 @@ heroText: The Kali Guide.
       </a>
     </li>
     <li>
-      <a id="icon" href="https://twitter.com/_kalidao" target="_blank">
+      <a id="icon" href="https://twitter.com/kali__gg" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter"
           viewBox="0 0 16 16">
           <path
@@ -47,7 +47,7 @@ heroText: The Kali Guide.
       </a>
     </li>
     <li>
-      <a id="icon" href="https://discord.gg/UKCS9ghzUE" target="_blank">
+      <a id="icon" href="https://discord.com/invite/kpMs4gzSyV" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-discord"
           viewBox="0 0 16 16">
           <path

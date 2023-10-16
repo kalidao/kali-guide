@@ -1,12 +1,12 @@
 const { description } = require("../../package");
 
 module.exports = {
-  title: "Kali Guide",
+  title: "Wrappr",
   description: description,
-  //homepage: "http://docs.huff.sh/",
+  homepage: "http://docs.wrappr.wtf/",
 
   head: [
-    ["meta", { name: "theme-color", content: "#c70202" }],
+    ["meta", { name: "theme-color", content: "#30FDFD" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",
@@ -21,47 +21,38 @@ module.exports = {
   theme: "default-prefers-color-scheme",
   themeConfig: {
     overrideTheme: "dark",
-    ostname: 'https://guide.kali.gg/',
-    docsRepo: 'https://github.com/kalidao/kali-guide',
+    ostname: 'https://docs.wrappr.wtf/',
+    docsRepo: 'https://github.com/kalidao/wrappr-docs',
     docsBranch: 'main',
     docsDir: "src",
     nav: [
       { text: "Home", link: "/" },
-      { text: "Get Started", link: "/get-started/overview/" },
-      { text: "Resources", link: "/resources/overview/" },
-      { text: "Contribute", link: "/contribute/overview/" },
+      { text: "Get Started", link: "/get-started/what/" },
+      { text: "Legal Setup", link: "/how-to/quick-notes/" },
+      { text: "Create", link: "/create/" },
+      { text: "Explore", link: "/explore/" },
     ],
     sidebarDepth: 10,
     sidebar: {
       "/get-started/": [
         {
-          title: "Get Started",
+          title: "Getting Started",
           collapsable: false,
           children: [
-            "/get-started/overview/",
-            "/get-started/installing/",
-            "/get-started/compiling/",
-            "/get-started/project-quickstart/",
-            "/get-started/huff-by-example/",
+            "/get-started/what/",
+            "/get-started/where/",
           ],
         },
       ],
-      "/resources/": [
+      "/how-to/": [
         {
-          title: "Resources",
+          title: "Legal Setup",
           collapsable: false,
           children: [
-            "/resources/overview/",
-            "/resources/cli/"
-          ]
-        },
-      ],
-      "/contribute/": [
-        {
-          title: "Contribute",
-          collapsable: false,
-          children: [
-            "/contribute/overview/",
+            "/how-to/quick-notes/",
+            "/how-to/LLC/",
+            "/how-to/non-profit/",
+            "/how-to/charter/",
           ],
         },
       ],
